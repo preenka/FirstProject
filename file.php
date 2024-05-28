@@ -2,3 +2,4 @@
 echo "Hello";
 ?>
 Hi :)
+How are you
